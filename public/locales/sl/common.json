@@ -863,5 +863,13 @@
         "users": "Uporabniki",
         "recipes": "Recepti",
         "keywords": "Ključne besede"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Uporabniki",
+        "totalValue": "Total Value"
     }
 }

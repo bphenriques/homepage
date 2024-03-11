@@ -863,5 +863,13 @@
         "users": "Benutzer",
         "recipes": "Rezepte",
         "keywords": "Schlagwörter"
+    },
+    "homebox": {
+        "items": "Objekte",
+        "totalWithWarranty": "Mit Garantie",
+        "locations": "Orte",
+        "labels": "Labels",
+        "users": "Benutzer",
+        "totalValue": "Gesamtwert"
     }
 }

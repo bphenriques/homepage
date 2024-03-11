@@ -863,5 +863,13 @@
         "users": "使用者",
         "recipes": "食譜",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "使用者",
+        "totalValue": "Total Value"
     }
 }

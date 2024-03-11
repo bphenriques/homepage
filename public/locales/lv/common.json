@@ -863,5 +863,13 @@
         "users": "Lietotāji",
         "recipes": "Recipes",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Lietotāji",
+        "totalValue": "Total Value"
     }
 }

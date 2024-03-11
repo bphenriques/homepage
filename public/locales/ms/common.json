@@ -863,5 +863,13 @@
         "users": "Pengguna",
         "recipes": "Resipi",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Pengguna",
+        "totalValue": "Total Value"
     }
 }

@@ -863,5 +863,13 @@
         "users": "Kullanıcılar",
         "recipes": "Recipes",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Kullanıcılar",
+        "totalValue": "Total Value"
     }
 }

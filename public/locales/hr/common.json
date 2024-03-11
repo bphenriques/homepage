@@ -863,5 +863,13 @@
         "users": "Korisnici",
         "recipes": "Recepti",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Korisnici",
+        "totalValue": "Total Value"
     }
 }

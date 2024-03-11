@@ -863,5 +863,13 @@
         "users": "Brugere",
         "recipes": "Opskrifter",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Brugere",
+        "totalValue": "Total Value"
     }
 }

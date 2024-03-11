@@ -863,5 +863,13 @@
         "users": "Utilizadores",
         "recipes": "Receitas",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Utilizadores",
+        "totalValue": "Total Value"
     }
 }

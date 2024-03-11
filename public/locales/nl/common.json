@@ -863,5 +863,13 @@
         "users": "Gebruikers",
         "recipes": "Recepten",
         "keywords": "Keywords"
+    },
+    "homebox": {
+        "items": "Items",
+        "totalWithWarranty": "With Warranty",
+        "locations": "Locations",
+        "labels": "Labels",
+        "users": "Gebruikers",
+        "totalValue": "Total Value"
     }
 }
